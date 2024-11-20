@@ -72,5 +72,5 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
     // Project Dependencies
-    implementation(project(":shimmer_animation_compose"))
+    implementation (libs.shimmeranimation.compose)
 }
