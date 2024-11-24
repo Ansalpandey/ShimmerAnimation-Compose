@@ -28,6 +28,7 @@ import az.lahza.shimmer_animation_compose.resolver.interfaces.ShimmerResolver
  * @param config The configuration to customize the shimmer effect (default is [ShimmerEffectConfig]).
  * @return A [Modifier] that applies the shimmer effect to the composable.
  *
+ *
  * **Usage Examples**:
  *
  * **1. Applying Default Shimmer Effect to a `Box`:**
