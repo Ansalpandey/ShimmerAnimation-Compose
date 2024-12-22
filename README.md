@@ -225,8 +225,15 @@ We highly appreciate and welcome any contributions to this project, whether it's
 
 ## ☕ Support
 
-<p align="center"> <strong><em>✨ If you enjoy this project and want to support me, consider buying me a coffee! ☕</em></strong></p>
-<p align="center">  Your support helps me continue working on improving this project and bringing new features to life. Every cup counts! </p>
+<p align="center"> 
+<strong>
+<em>✨ If you enjoy this project and want to support me, consider buying me a coffee! ☕
+</em>
+</strong>
+</p>
+<p align="center"> 
+ Your support helps me continue working on improving this project and bringing new features to life. Every cup counts! 
+</p>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/zaminalirustamov" target="_blank">
