@@ -13,8 +13,6 @@
 
 ![license](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)
 
-
-
 <p align="center">
 <strong>A Shimmer Animation Library for Kotlin, built with Jetpack Compose.</strong>
 </p>
