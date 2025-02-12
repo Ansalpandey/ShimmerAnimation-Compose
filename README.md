@@ -21,7 +21,6 @@
 <img width=30% src="./examples/demo.gif">
 </p>
 
-
 ## ✨ Features
 - 🎨 **Customizable Colors**  
   Define the colors used in the shimmer effect. The colors blend together to create the shimmering animation. By default, it uses semi-transparent white colors, but you can modify this list to fit your design needs.
