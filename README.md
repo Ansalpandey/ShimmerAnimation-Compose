@@ -17,6 +17,7 @@
 <strong>A Shimmer Animation Library for Kotlin, built with Jetpack Compose.</strong>
 </p>
 
+
 <p align="center">
 <img width=30% src="./examples/demo.gif">
 </p>
