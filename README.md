@@ -1,6 +1,5 @@
 
- 
-# Jetpack Compose Shimmer Animation Library 
+ # Jetpack Compose Shimmer Animation Library 
 ![kotlin](https://img.shields.io/badge/Platforms-Kotlin_Compatible-lightblue?style=for-the-badge&logo=kotlin) 
 
 ![kotlin](https://img.shields.io/badge/Language-Kotlin-0095D9?style=for-the-badge&logo=kotlin)  
